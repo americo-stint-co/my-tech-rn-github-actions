@@ -1,2 +1,2 @@
-# my-tech-react-native-cli-hello-world
-Hello world react native app 
+# my-tech-rn-cli-github-actions
+Project to practise how to set up github actions
