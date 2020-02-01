@@ -1,2 +1,2 @@
-- name: Assign size label
+name: Assign size label
   uses: pascalgn/size-label-action@v0.1.1
